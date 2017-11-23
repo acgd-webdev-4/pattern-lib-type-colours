@@ -1,5 +1,5 @@
 ---
-summary: 'Style the basic typography, colours and generic HTML elements for the dog rescue pattern library.'
+summary: 'Style the basic typography, colours and generic HTML elements for the eCommerce pattern library.'
 time: '2 hours'
 deliverables: 'Pattern library'
 ---
@@ -8,8 +8,8 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
-- Targeting only HTML tags within your `theme.css`, style the basic typography for your dog rescue.
+- *Continue work on your `ecommerce-pattern-library`*
+- Targeting only HTML tags within your `theme.css`, style the basic typography for your website.
 - Consider & style all the possible HTML tags related to typography.
 - *Run your pattern library through Markbot and make sure it passes all the checks.*
 
