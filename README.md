@@ -25,7 +25,7 @@ Make sure to style (or at least consider) the following tags:
 - *Blockquotes:* `<blockquote>`, `<cite>`
 - *Emphasis & edits:*, `<em>`, `<strong>`, `<del>`, `<ins>`, `<abbr>`, `<dfn>`, `<i>`, `<b>`, `<mark>`, `<q>`, `<s>`, `<u>`
 
-**You don’t have to regenerate your Pattern Library after every change.** If you’re just changing your `theme.css` a refresh is good enough. That’s still slow though, so you can open up each HTML file in the `typography` pattern, like `01-headings.html` directly in the browser and refresh there.
+**You don’t have to regenerate your Pattern Library after every change—it will automatically regenerate & refresh for you.** That’s still slow though, so you can open up each HTML file in the `typography` pattern, like `01-headings.html` directly in the browser and refresh there.
 
 **Don’t change any of the code in the `typography` folder—only write CSS in your `theme.css` file this week.**
 
