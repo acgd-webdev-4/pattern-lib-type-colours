@@ -16,7 +16,6 @@ deliverables: 'Pattern library'
   - What’s the default stying the links?
   - What’s the default stying for lists?
   - *etc.*
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
@@ -32,7 +31,7 @@ Make sure to style (or at least consider) the following tags:
 
 Focus on `color`, `font-weight`, `font-style` & `font-family`. We don’t need to specify `margin`, `padding` or `font-size` because those already exist within the Typografier classes.
 
-**You don’t have to regenerate your Pattern Library after every change—it will automatically regenerate & refresh for you.** That’s still slow though, so you can open up each section in the pattern library into a new browser tab and refresh there. *Look for this little pop-out arrow at the top of a section.*
+**You don’t have to refresh your whole Pattern Library after every change—it’s really slow** So you can open up each section in the pattern library into a new browser tab and refresh there. *Look for this little pop-out arrow at the top of a section.*
 
 **Don’t change any of the code in the `typography` folder—only write CSS in your `theme.css` file this week.**
 
